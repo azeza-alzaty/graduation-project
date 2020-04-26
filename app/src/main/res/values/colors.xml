@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43E97B </color>
+    <color name="colorPrimaryDark">#374ABE</color>
+    <color name="colorAccent">#FF5858</color>
+    <color name="A">#38F9D7</color>
+    <color name="AA">#667EEA </color>
+    <color name="AAA">#64B6FF</color>
+    <color name="AAAA">#7990DD </color>
+    <color name="AAAAA">#FB5895</color>
+    <color name="B">#FB5895</color>
+    <color name="BB">#667EEA</color>
+    <color name="BBB">#000000</color>
+    <color name="BBBB">#ffffff</color>
+
+</resources>
